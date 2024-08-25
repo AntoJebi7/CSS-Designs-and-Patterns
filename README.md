@@ -1,5 +1,8 @@
 # Flag of India - HTML & CSS
 
+View:
+https://antojebi7.github.io/Flag-of-INDIA-using-HTML-CSS/
+
 ## Overview
 
 This project showcases a simple representation of the Indian national flag, created using only HTML and CSS. It is designed as a beginner-friendly exercise to help users understand basic web development concepts. The flag features the traditional tricolor design and includes the Ashoka Chakra with 24 spokes, centrally placed in the white band.
