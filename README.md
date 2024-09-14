@@ -1,8 +1,5 @@
 # HTML & CSS Design Repository 🎨
 
-Flag of India :
-https://antojebi7.github.io/Flag-of-INDIA-using-HTML-CSS/
-
 Welcome to the **HTML & CSS Design Repository**!
 
 This repository is dedicated to showcasing a variety of CSS designs, including creative patterns, flag designs, and more. It serves as a collaborative space for designers and developers to contribute and explore unique HTML and CSS creations.
