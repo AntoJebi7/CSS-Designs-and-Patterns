@@ -22,13 +22,9 @@ We welcome contributions from everyone! If you have a design or pattern you'd li
 3. **Add** your design files and update the README if necessary.
 4. **Submit** a pull request with a brief description of your design.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). See the LICENSE file for details.
-
 ## Contact
 
-For any questions or feedback, feel free to open an issue or contact us at [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, feel free to open an issue or contact me.
 
 Happy designing!
 
