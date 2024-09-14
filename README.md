@@ -31,6 +31,6 @@ Happy designing!
 
 ## Acknowledgments
 
-- This project is inspired by the Indian national flag and is created for educational purposes.
+- This project is inspired and is created for educational purposes.
 
 
